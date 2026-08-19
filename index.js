@@ -1,0 +1,1 @@
+'use strict';const fetch = require('./lib/create');module.exports = fetch;module.exports.default = fetch;module.exports.create = fetch.create;

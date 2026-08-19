@@ -1,0 +1,102 @@
+[
+  {
+    "browser": "chrome",
+    "device": "SM-X910",
+    "android": 15,
+    "platform": "Android",
+    "platformVersion": "15",
+    "arch": "arm",
+    "bitness": "64",
+    "model": "SM-X910"
+  },
+  {
+    "browser": "chrome",
+    "device": "SM-X710",
+    "android": 14,
+    "platform": "Android",
+    "platformVersion": "14",
+    "arch": "arm",
+    "bitness": "64",
+    "model": "SM-X710"
+  },
+  {
+    "browser": "chrome",
+    "device": "Lenovo TB350FU",
+    "android": 14,
+    "platform": "Android",
+    "platformVersion": "14",
+    "arch": "arm",
+    "bitness": "64",
+    "model": "Lenovo TB350FU"
+  },
+  {
+    "browser": "chrome",
+    "device": "Pixel Tablet",
+    "android": 15,
+    "platform": "Android",
+    "platformVersion": "15",
+    "arch": "arm",
+    "bitness": "64",
+    "model": "Pixel Tablet"
+  },
+  {
+    "browser": "chrome",
+    "device": "Xiaomi Pad 7",
+    "android": 15,
+    "platform": "Android",
+    "platformVersion": "15",
+    "arch": "arm",
+    "bitness": "64",
+    "model": "Xiaomi Pad 7"
+  },
+  {
+    "browser": "safari",
+    "device": "iPad",
+    "ios": "18_0",
+    "platform": "iOS",
+    "platformVersion": "18.0",
+    "arch": "arm",
+    "bitness": "64",
+    "model": "iPad"
+  },
+  {
+    "browser": "safari",
+    "device": "iPad Air",
+    "ios": "18_1",
+    "platform": "iOS",
+    "platformVersion": "18.1",
+    "arch": "arm",
+    "bitness": "64",
+    "model": "iPad Air"
+  },
+  {
+    "browser": "chrome",
+    "device": "iPad Pro",
+    "ios": "18_0",
+    "platform": "iOS",
+    "platformVersion": "18.0",
+    "arch": "arm",
+    "bitness": "64",
+    "model": "iPad Pro"
+  },
+  {
+    "browser": "firefox",
+    "device": "SM-X910",
+    "android": 15,
+    "platform": "Android",
+    "platformVersion": "15",
+    "arch": "arm",
+    "bitness": "64",
+    "model": "SM-X910"
+  },
+  {
+    "browser": "chrome",
+    "device": "MatePad Pro",
+    "android": 14,
+    "platform": "Android",
+    "platformVersion": "14",
+    "arch": "arm",
+    "bitness": "64",
+    "model": "MatePad Pro"
+  }
+]

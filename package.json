@@ -1,0 +1,112 @@
+{
+  "name": "@xof/fetch",
+  "version": "1.1.6",
+  "description": "Feature-rich Node.js HTTP client supporting HTTP/HTTPS/HTTP2, interceptors, transforms, retries, AbortController, browser emulation, smart URL building, cookies, automatic decompression, and multiple response parsers.",
+  "main": "./index.js",
+  "type": "commonjs",
+  "exports": {
+    ".": {
+      "require": "./index.js",
+      "default": "./index.js"
+    }
+  },
+  "files": [
+    "index.js",
+    "lib",
+    "LICENSE",
+    "README.md",
+    "NEW.md",
+    "CHANGELOG.md"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "fetch",
+    "http",
+    "https",
+    "request",
+    "response",
+    "http-client",
+    "http-request",
+    "http-response",
+    "api",
+    "api-client",
+    "rest",
+    "rest-api",
+    "rest-client",
+    "json",
+    "body",
+    "headers",
+    "browser-headers",
+    "browser",
+    "browser-fetch",
+    "fetch-api",
+    "node-fetch",
+    "native-fetch",
+    "axios",
+    "axios-alternative",
+    "undici",
+    "got",
+    "superagent",
+    "node",
+    "nodejs",
+    "commonjs",
+    "esm",
+    "promise",
+    "async",
+    "request-parser",
+    "response-parser",
+    "query",
+    "querystring",
+    "params",
+    "url",
+    "url-builder",
+    "path-params",
+    "cookies",
+    "cookie",
+    "cookie-jar",
+    "session",
+    "user-agent",
+    "fake-user-agent",
+    "decompression",
+    "gzip",
+    "brotli",
+    "zstd",
+    "buffer",
+    "arraybuffer",
+    "text",
+    "binary",
+    "compression",
+    "network",
+    "web",
+    "web-client",
+    "transport",
+    "http2",
+    "http1",
+    "redirect",
+    "redirects",
+    "upload",
+    "download",
+    "stream",
+    "multipart",
+    "form-data"
+  ],
+  "author": {
+    "name": "Xyraa Kyxzz",
+    "url": "https://github.com/Xyraakyzzz"
+  },
+  "license": "SEE LICENSE IN LICENSE",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Xyraakyzzz/xof-fetch.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Xyraakyzzz/xof-fetch/issues"
+  },
+  "homepage": "https://github.com/Xyraakyzzz/xof-fetch",
+  "dependencies": {
+    "@xof/fetch": "^1.1.3",
+    "x-fakeua": "^1.2.0"
+  }
+}

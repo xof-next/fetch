@@ -1,0 +1,102 @@
+[
+  {
+    "browser": "chrome",
+    "device": "Pixel 9 Pro XL",
+    "android": 15,
+    "platform": "Android",
+    "platformVersion": "15",
+    "arch": "arm",
+    "bitness": "64",
+    "model": "Pixel 9 Pro XL"
+  },
+  {
+    "browser": "chrome",
+    "device": "Pixel 8 Pro",
+    "android": 14,
+    "platform": "Android",
+    "platformVersion": "14",
+    "arch": "arm",
+    "bitness": "64",
+    "model": "Pixel 8 Pro"
+  },
+  {
+    "browser": "chrome",
+    "device": "SM-S928B",
+    "android": 15,
+    "platform": "Android",
+    "platformVersion": "15",
+    "arch": "arm",
+    "bitness": "64",
+    "model": "SM-S928B"
+  },
+  {
+    "browser": "chrome",
+    "device": "SM-S918B",
+    "android": 14,
+    "platform": "Android",
+    "platformVersion": "14",
+    "arch": "arm",
+    "bitness": "64",
+    "model": "SM-S918B"
+  },
+  {
+    "browser": "chrome",
+    "device": "SM-A556E",
+    "android": 14,
+    "platform": "Android",
+    "platformVersion": "14",
+    "arch": "arm",
+    "bitness": "64",
+    "model": "SM-A556E"
+  },
+  {
+    "browser": "chrome",
+    "device": "2201117TG",
+    "android": 14,
+    "platform": "Android",
+    "platformVersion": "14",
+    "arch": "arm",
+    "bitness": "64",
+    "model": "2201117TG"
+  },
+  {
+    "browser": "chrome",
+    "device": "23113RKC6G",
+    "android": 15,
+    "platform": "Android",
+    "platformVersion": "15",
+    "arch": "arm",
+    "bitness": "64",
+    "model": "23113RKC6G"
+  },
+  {
+    "browser": "chrome",
+    "device": "CPH2573",
+    "android": 15,
+    "platform": "Android",
+    "platformVersion": "15",
+    "arch": "arm",
+    "bitness": "64",
+    "model": "CPH2573"
+  },
+  {
+    "browser": "firefox",
+    "device": "Pixel 9",
+    "android": 15,
+    "platform": "Android",
+    "platformVersion": "15",
+    "arch": "arm",
+    "bitness": "64",
+    "model": "Pixel 9"
+  },
+  {
+    "browser": "edge",
+    "device": "SM-S928B",
+    "android": 15,
+    "platform": "Android",
+    "platformVersion": "15",
+    "arch": "arm",
+    "bitness": "64",
+    "model": "SM-S928B"
+  }
+]

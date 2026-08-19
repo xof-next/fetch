@@ -1,0 +1,102 @@
+[
+  {
+    "browser": "safari",
+    "device": "iPhone",
+    "ios": "18_0",
+    "platform": "iOS",
+    "platformVersion": "18.0",
+    "arch": "arm",
+    "bitness": "64",
+    "model": "iPhone"
+  },
+  {
+    "browser": "safari",
+    "device": "iPhone",
+    "ios": "18_1",
+    "platform": "iOS",
+    "platformVersion": "18.1",
+    "arch": "arm",
+    "bitness": "64",
+    "model": "iPhone"
+  },
+  {
+    "browser": "safari",
+    "device": "iPhone",
+    "ios": "17_7",
+    "platform": "iOS",
+    "platformVersion": "17.7",
+    "arch": "arm",
+    "bitness": "64",
+    "model": "iPhone"
+  },
+  {
+    "browser": "chrome",
+    "device": "iPhone",
+    "ios": "18_0",
+    "platform": "iOS",
+    "platformVersion": "18.0",
+    "arch": "arm",
+    "bitness": "64",
+    "model": "iPhone"
+  },
+  {
+    "browser": "chrome",
+    "device": "iPhone",
+    "ios": "18_1",
+    "platform": "iOS",
+    "platformVersion": "18.1",
+    "arch": "arm",
+    "bitness": "64",
+    "model": "iPhone"
+  },
+  {
+    "browser": "firefox",
+    "device": "iPhone",
+    "ios": "18_0",
+    "platform": "iOS",
+    "platformVersion": "18.0",
+    "arch": "arm",
+    "bitness": "64",
+    "model": "iPhone"
+  },
+  {
+    "browser": "edge",
+    "device": "iPhone",
+    "ios": "18_1",
+    "platform": "iOS",
+    "platformVersion": "18.1",
+    "arch": "arm",
+    "bitness": "64",
+    "model": "iPhone"
+  },
+  {
+    "browser": "safari",
+    "device": "iPad",
+    "ios": "18_0",
+    "platform": "iOS",
+    "platformVersion": "18.0",
+    "arch": "arm",
+    "bitness": "64",
+    "model": "iPad"
+  },
+  {
+    "browser": "chrome",
+    "device": "iPad",
+    "ios": "18_0",
+    "platform": "iOS",
+    "platformVersion": "18.0",
+    "arch": "arm",
+    "bitness": "64",
+    "model": "iPad"
+  },
+  {
+    "browser": "firefox",
+    "device": "iPad",
+    "ios": "18_1",
+    "platform": "iOS",
+    "platformVersion": "18.1",
+    "arch": "arm",
+    "bitness": "64",
+    "model": "iPad"
+  }
+]

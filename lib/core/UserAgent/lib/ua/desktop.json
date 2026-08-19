@@ -1,0 +1,98 @@
+[
+  {
+    "browser": "chrome",
+    "os": "Windows NT 10.0; Win64; x64",
+    "webkit": "537.36",
+    "platform": "Windows",
+    "platformVersion": "10.0",
+    "arch": "x86",
+    "bitness": "64",
+    "model": ""
+  },
+  {
+    "browser": "chrome",
+    "os": "Windows NT 11.0; Win64; x64",
+    "webkit": "537.36",
+    "platform": "Windows",
+    "platformVersion": "11.0",
+    "arch": "x86",
+    "bitness": "64",
+    "model": ""
+  },
+  {
+    "browser": "edge",
+    "os": "Windows NT 10.0; Win64; x64",
+    "webkit": "537.36",
+    "platform": "Windows",
+    "platformVersion": "10.0",
+    "arch": "x86",
+    "bitness": "64",
+    "model": ""
+  },
+  {
+    "browser": "firefox",
+    "os": "Windows NT 10.0; Win64; x64",
+    "platform": "Windows",
+    "platformVersion": "10.0",
+    "arch": "x86",
+    "bitness": "64",
+    "model": ""
+  },
+  {
+    "browser": "chrome",
+    "os": "X11; Linux x86_64",
+    "webkit": "537.36",
+    "platform": "Linux",
+    "platformVersion": "0.0",
+    "arch": "x86",
+    "bitness": "64",
+    "model": ""
+  },
+  {
+    "browser": "firefox",
+    "os": "X11; Ubuntu; Linux x86_64",
+    "platform": "Linux",
+    "platformVersion": "0.0",
+    "arch": "x86",
+    "bitness": "64",
+    "model": ""
+  },
+  {
+    "browser": "chrome",
+    "os": "Macintosh; Intel Mac OS X 14_6",
+    "webkit": "537.36",
+    "platform": "macOS",
+    "platformVersion": "14.6",
+    "arch": "x86",
+    "bitness": "64",
+    "model": ""
+  },
+  {
+    "browser": "safari",
+    "os": "Macintosh; Intel Mac OS X 14_6",
+    "platform": "macOS",
+    "platformVersion": "14.6",
+    "arch": "x86",
+    "bitness": "64",
+    "model": ""
+  },
+  {
+    "browser": "chrome",
+    "os": "Macintosh; Apple Silicon Mac OS X 15_0",
+    "webkit": "537.36",
+    "platform": "macOS",
+    "platformVersion": "15.0",
+    "arch": "arm",
+    "bitness": "64",
+    "model": ""
+  },
+  {
+    "browser": "firefox",
+    "os": "Macintosh; Intel Mac OS X 14_6",
+    "platform": "macOS",
+    "platformVersion": "14.6",
+    "arch": "x86",
+    "bitness": "64",
+    "model": ""
+  }
+]
